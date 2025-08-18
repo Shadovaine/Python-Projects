@@ -1,4 +1,4 @@
-# 🐍 Python Projects – Jake Welly
+# 🐍 Python Projects – Shadovaine
 
 This repository documents my hands-on journey through learning Python, with a focus on scripting, automation, and cybersecurity.
 
