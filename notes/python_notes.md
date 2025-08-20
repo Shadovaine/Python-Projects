@@ -282,8 +282,11 @@ print(age > 18 or age > 20)   # Print is the built-in function and the logical o
 
 ```bash
 is_logged_in = False
-print(not is logged in)
+print(not is logged in)      # True, because NOT False = True
 
+x = 10
+print(not (x > 5))           # False, because x > 5 is true
+```
 
 # Control Flow
 
