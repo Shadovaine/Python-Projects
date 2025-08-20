@@ -11,7 +11,7 @@
 
 ### Single line starts with a #
 
-`# this is a comment`
+- `# this is a comment`
 
 ### Multi line start with 3 " then comment then ends with 3 "
 
@@ -45,13 +45,13 @@ This is a multi line comment
 | `list` | `colors = ["red", "blue"]` |
 | `tuple` | `point = (3, 4)` |
 | `dict` | `person = {"name": "Python"}` |
-| `set` | unique = {1, 2, 3,}` |
+| `set` | `unique = {1, 2, 3,}` |
 
 # Printing and Input
 
 ## Print Syntax
 
-- `print("Hello, Workd!")`
+- `print("Hello, World!")`
 
 ## Input Syntax
 
@@ -223,10 +223,11 @@ while x < 10:        # Loop Header while = Loop keyword, x < 10 Boolean expressi
 def greet(name):           # Function Definition header: def = python keyword, greet = Function name, name = Parameter(argument placeholder), : = start the indent
     return "Hello" + name  # Return Statement: return = tells function what value to send back to caller, '"Hello" + name` Combines Hello with name that was entered
 ```
+
 ## Call it
 
 ```bash
-print(greet("Jake"))
+print(greet("Name"))
 ```
 
 # Helpful Tips
