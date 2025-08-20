@@ -1,8 +1,8 @@
-# 🐍 Shadovaine's Python Projects
+# Shadovaine's Python Projects
 
 This repository documents my hands-on journey through learning Python, with a focus on scripting, automation, and cybersecurity.
 
-## 📁 Project Structure
+## Python Project Contents
 
 ```
 Python-Projects/
@@ -15,7 +15,7 @@ Python-Projects/
 └─ requirements.txt                   # (Empty for now; add packages as needed)
 ```
 
-## ✅ Completed Projects
+## Completed Projects
 
 - [x] Level 1 – Password Generator
 - [ ] Level 1 – Terminal To-Do List App
@@ -24,7 +24,7 @@ Python-Projects/
 - [ ] Level 4 – Task Manager with SQLite
 - [ ] Level 5 – Cybersecurity Toolkit
 
-## 🚀 Running the Projects
+## Running the Projects
 
 **Step 1: Activate virtual environment**
 
@@ -38,11 +38,11 @@ Python-Projects/
 python level1\password_generator.py --length 16 --count 3 --symbols
 ```
 
-## 🧠 Notes Folder
+## Notes Folder
 
 The `notes/` folder contains my personal learning notes with annotated versions of core projects. These serve as references for function syntax, logic flow, and Python structure best practices.
 
-## 📌 Next Steps
+##  Shadovaine Next Steps
 
 - Finish and commit annotated Markdown study notes
 - Build Level 1 Project #2 (Terminal To-Do List)
@@ -50,4 +50,4 @@ The `notes/` folder contains my personal learning notes with annotated versions 
 - Continue pushing progress regularly
 
 ---
-👨‍💻 Made with 💡, 🔥, and Python.
+Made with inspiration from Cipher, fuel by fire driven desire, and Python.
