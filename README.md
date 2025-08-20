@@ -1,4 +1,4 @@
-# 🐍 Python Projects – Shadovaine
+# 🐍 Shadovaine's Python Projects
 
 This repository documents my hands-on journey through learning Python, with a focus on scripting, automation, and cybersecurity.
 
