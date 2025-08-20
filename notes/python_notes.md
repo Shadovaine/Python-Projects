@@ -264,9 +264,25 @@ print(a <= b)  # Print is the buildt-in function and (a <= b) is the argument
 
 ```bash
 age = 25                      # Assignment Statement
-print(age > 18 and age < 30)  # Print is the built-in function and the logical operator is the argumebt
+print(age > 18 and age < 30)  # Print is the built-in function and the logical operator is the argument
 print(age > 18 and age > 40). # Print is the built-in function and the logical operator is the srgument
 ```
+
+## `or` Logical or
+
+```bash
+age = 15                      # Assignment Statement
+print(age > 18 or age == 15)  # Print is the built-in function and the logical operator is the argument
+print(age > 18 or age > 20)   # Print is the built-in function and the logical operator is the argument
+```
+
+## `not` Logical not
+
+## Description: Use when u want the opposite of a condition
+
+```bash
+is_logged_in = False
+print(not is logged in)
 
 
 # Control Flow
