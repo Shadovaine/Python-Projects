@@ -183,7 +183,91 @@ X **= 7
 ```
 ## Comparison
 
+## `==` Equal to
+
+## Description: Checks if teo values are the same
+
+### Example
+
+```bash
+a = 5          # Assignment Statement
+b = 5          # Assignment Statement
+print(a == b)  # Print is the built-in function and (a == b) is the argument
+```
+
+## `!=` Not Equal to
+
+## Description: Check to see if two values are different
+
+### Example
+
+```bash
+a = 5         # Assignment Statement
+b = 7         # Assignment Statement
+print(a != b) # Print is the built-in function and (a != b) is the argument
+```
+
+## `>` Greater than
+
+## Description: Checks if value on left is greater than value on right
+
+### Example
+
+```bash
+a = 10        # Assignment Statement
+b = 3         # Assignment Statement
+print(a > b)  # Print is the built-in function and (a > b) is the argument
+```
+
+## `<` Less than
+
+## Description: Checks if value on left is less than the value on the right
+
+### Example 
+
+```bash
+a = 2         # Assignment Statement
+b = 8         # Assignment Statement
+print(a < b)  # print is the built-in function and (a < b) os the argument
+```
+## `>=` Greater than or equal to
+
+## Deecription: True if left aide is bigger or equal to right side
+
+### Example
+
+```bash
+a = 10         # Assignment Statement
+b = 10         # Assignment Statement
+print(a >= b)  # Print is a built-in function and (a >= b) is an argument
+```
+
+## `<=` Less than or equal to
+
+## Description: True if left side is smaller or equal to right side
+
+### Example
+
+```bash
+a = 4          # Assignment Statement
+b = 4          # Assignment Statement
+print(a <= b)  # Print is the buildt-in function and (a <= b) is the argument
+```
+
 ## Logical
+
+## `and` Logical and
+
+## Description: Return true only if both conditions are true and false if either condition is false
+
+### Example
+
+```bash
+age = 25                      # Assignment Statement
+print(age > 18 and age < 30)  # Print is the built-in function and the logical operator is the argumebt
+print(age > 18 and age > 40). # Print is the built-in function and the logical operator is the srgument
+```
+
 
 # Control Flow
 
