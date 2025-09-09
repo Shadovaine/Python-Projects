@@ -347,3 +347,6 @@ print(greet("Name"))
 | Be explicit in formulas |
 | Do not guess integer vs float |
 
+# String Types
+
+- `f-string` =  Include {} within the (). A Python expression in the {} can refer to a variable or a literal value.
