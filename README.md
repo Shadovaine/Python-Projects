@@ -50,4 +50,4 @@ The `notes/` folder contains my personal learning notes with annotated versions 
 - Continue pushing progress regularly
 
 ---
-Made with inspiration from Cipher, fuel by fire driven desire, and Python.
+Fuelled by fire, driven by desire, and Python.
